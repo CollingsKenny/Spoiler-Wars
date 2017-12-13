@@ -16,7 +16,7 @@ for (var i = 0; i < elements.length; i++) {
                 }
             }
             if(bad) {
-                window.console.log("*wars notif: Broke because of: ", nonoWords[k]);
+                console.log("*wars notif: Broke because of: ", nonoWords[k], " in the text: ", text);
                 element.style.backgroundColor = '#000';
                 element.style.color = '#000';
             }
