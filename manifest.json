@@ -1,0 +1,19 @@
+
+{
+"manifest_version": 2,
+    "name": "Spoiler Wars",
+    "description": "fuck spoilers, remove anything that could come close to ruining your life while you study for finals that you're going to fail anyway",
+    "version": "1.3",
+    "author": "Kenny Collings",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
