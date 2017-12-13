@@ -1,4 +1,4 @@
-var nonoWords = ['Star Wars', 'Star wars', 'star wars', 'Last Jedi', 'Last jedi', 'last Jedi', 'jedi', 'Jedi', 'Snoke', 'Ren', 'Kylo', 'carrie fisher', 'Carrie Fisher', 'Carrie', 'Fisher', 'Leia', 'leia', 'Luke', 'Ren '];
+var nonoWords = ['Star Wars', 'Star wars', 'star wars', 'Last Jedi', 'Last jedi', 'last Jedi', 'jedi', 'Jedi', 'Snoke', 'Kylo', 'carrie fisher', 'Carrie Fisher', 'Carrie', 'Fisher', 'Leia', 'leia', 'Luke', 'Ren '];
 var elements = document.getElementsByTagName('*');
 
 for (var i = 0; i < elements.length; i++) {
