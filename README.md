@@ -1,5 +1,5 @@
 # Spoiler-Wars
-Protect yourself from all the potential spoilers beacuse people on the internet need to learn that some of us have finals and that tickets are really sold out and I don't really want to drive to see a dumb movie. Ahh who am I kidding, I'm just procrastinating.
+Simple Chrome extension to remove potential spoilers about the new Star Wars movie.
 
 To use:
 1) Navigate to chrome://extensions/ 
